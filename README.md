@@ -1,5 +1,5 @@
 # JS QR Code Generator
-You can check out the [link](https://Jagrati1213/qr-code-generator/)
+You can check out the [link](https://jagrati1213.github.io/qr-code-generator/)
 ## Used Language
 - HTML
 - CSS
